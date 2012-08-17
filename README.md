@@ -1,4 +1,10 @@
 AzteCast-Mobile-App
 ===================
 
-These are the files for the AzteCast Mobile app built off of the Ushahidi iPhone app
+
+git add README
+# Stages your README file, adding it to the list of files to be committed
+
+
+git commit -m 'first commit'
+# Commits your files, adding the message "first commit"
